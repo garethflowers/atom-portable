@@ -4,7 +4,7 @@ Atom Portable is the Atom text editor packaged with a PortableApps.com launcher 
 
 ## System Requirements
 
-* Microsoft Windows 7 or later.
+* Microsoft Windows 7, 8.0, 8.1 or 10 (x86/x64).
 * [PortableApps.com Platform](http://portableapps.com/download) (Optional)
 
 ## Credits
