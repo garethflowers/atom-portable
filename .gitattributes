@@ -1,2 +1,5 @@
 # Prevent end-of-line normalisation
 * -text
+
+# LFS Files
+./AtomPortable/App/Atom/resources/app.asar filter=lfs diff=lfs merge=lfs -text
