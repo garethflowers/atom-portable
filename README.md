@@ -11,7 +11,7 @@ Atom Portable is the Atom text editor packaged with a PortableApps.com launcher 
 
 ## Downloading
 
-You can find the downloads [here on SourceForge](https://sourceforge.net/projects/atomportable/).
+You can find the downloads [here](https://github.com/garethflowers/atom-portable/releases).
 
 ## System Requirements
 
