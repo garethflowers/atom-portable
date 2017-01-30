@@ -20,6 +20,10 @@ as an online installer and complete zip file.
 * No need for any external software - simply download extract and run!
 * Packaged in PortableApps.com format for easy integration.
 
+## Downloading
+
+You can find the downloads [here](https://github.com/garethflowers/atom-portable/releases).
+
 ## System Requirements
 * Microsoft Windows 7 or later.
 * [PortableApps.com Platform][S1] (Optional)
