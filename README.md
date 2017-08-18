@@ -24,7 +24,7 @@ as an online installer and complete zip file.
 * Microsoft Windows 7 or later.
 * [PortableApps.com Platform][S1] (Optional)
 
- [S1]: http://portableapps.com/download
+ [S1]: https://portableapps.com/download
 
 ## Credits
 * Atom Portable is a redistribution of the [Atom][C1] text editor, developed
@@ -33,7 +33,7 @@ as an online installer and complete zip file.
 
  [C1]: https://atom.io
  [C2]: https://github.com
- [C3]: http://portableapps.com
+ [C3]: https://portableapps.com
 
 ## License
 * Portable application code released under [the MIT license][L1].
