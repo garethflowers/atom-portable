@@ -36,9 +36,10 @@ as an online installer and complete zip file.
  [C3]: https://portableapps.com
 
 ## Licenses
-* Atom Portable released under [the GPL v3.0 license][L1].
-* PortableApps.com Launcher released under [the GPL license][L1].
+* Atom Portable released under [the GPL v2.0 license][L1].
+* PortableApps.com Launcher released under [the GPL v2.0 license][L3].
 * The Atom text editor is released under [the MIT license][L2].
 
  [L1]: https://raw.githubusercontent.com/garethflowers/atom-portable/master/LICENSE
  [L2]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
+ [L1]: https://raw.githubusercontent.com/garethflowers/atom-portable/master/AtomPortable/Other/Source/LauncherLicense.txt
