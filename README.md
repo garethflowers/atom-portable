@@ -42,4 +42,4 @@ as an online installer and complete zip file.
 
  [L1]: https://raw.githubusercontent.com/garethflowers/atom-portable/master/LICENSE
  [L2]: https://raw.githubusercontent.com/atom/atom/master/LICENSE.md
- [L1]: https://raw.githubusercontent.com/garethflowers/atom-portable/master/AtomPortable/Other/Source/LauncherLicense.txt
+ [L3]: https://raw.githubusercontent.com/garethflowers/atom-portable/master/AtomPortable/Other/Source/LauncherLicense.txt
